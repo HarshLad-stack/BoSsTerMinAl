@@ -1,4 +1,4 @@
-🚀 Velostack Boss Terminal
+🚀 Velostack Boss Terminal [Ignore those empty classes for now]
 
 Welcome to my custom, ultra-flexible terminal!
 
